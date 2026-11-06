@@ -1,0 +1,4 @@
+interface:
+  display_name: "Animation Studio"
+  short_description: "Create animations from descriptions, images, or videos"
+  default_prompt: "Use $create-animation to build an animation from my description or reference, then preview, review, and refine the result."
